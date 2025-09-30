@@ -6,7 +6,7 @@ body{
 #registerForm{
     display: flex;
     flex-direction: column;
-    background-color: rgb(30, 210, 72);
+    background-color: rgb(21, 218, 211);
     gap:1rem;
     border-radius:1rem;
     width: 100%;
@@ -16,7 +16,7 @@ body{
 #loginForm{
     display:flex;
     flex-direction: column;
-    background-color: #0000ff;
+    background-color: #a891dd;
     gap: 1rem;
     border-radius: 1rem;
     width: 100%;
@@ -26,7 +26,7 @@ body{
 #forgetForm{
 display: flex;
 flex-direction: column;
-background-color: rgba(195, 19, 19, 0.859);
+background-color: hwb(18 23% 8% / 0.859);
 gap: 1rem;
 border-radius: 1rem ;
 width: 100% ;
@@ -35,7 +35,7 @@ max-width: 400px;
 #welcomeForm{
     display: flex;
     flex-direction: column;
-    background-color: rgb(42, 42, 162);
+    background-color: lab(90.62% -28.18 79.94 / 0.833);
     gap: 1rem;
     width: 100%;
     max-width: 400px;
